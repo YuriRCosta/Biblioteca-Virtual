@@ -41,6 +41,7 @@ cd Biblioteca-Virtual
 
 ### Resultado Esperado
 
+```yaml
 Livro cadastrado com sucesso: Clean Code
 Livro cadastrado com sucesso: The Pragmatic Programmer
 Livros disponíveis na biblioteca:
@@ -49,3 +50,4 @@ Título: The Pragmatic Programmer, Autor: Andrew Hunt, Ano: 1999, Gênero: Tecno
 Livro removido com sucesso.
 Livros disponíveis na biblioteca:
 Título: The Pragmatic Programmer, Autor: Andrew Hunt, Ano: 1999, Gênero: Tecnologia, ID: 002
+```
